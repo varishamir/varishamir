@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Varisha! 👋
 
-<!--
-**varishamir/varishamir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner currently building my foundation in programming. 
 
-Here are some ideas to get you started:
+## 🛠 What I'm Learning
+I am currently challenging myself by learning two languages at once:
+* **C++ 🔵**: Focusing on logic and how computers handle memory.
+* **HTML 🟡**: Learning it, because of my interest in Web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 My Progress
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=varishamir&layout=compact&theme=radical)
+
+---
+### 🤝 Let's Connect
+* [My LinkedIn Profile](Varisha Mir)
